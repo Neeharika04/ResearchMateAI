@@ -1,0 +1,6 @@
+{
+  "name": "Faculty Advisor",
+  "description": "An AI chatbot connecting students with faculty guides and helping professors discover collaboration partners and research trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
